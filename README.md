@@ -1,4 +1,6 @@
-YouTube Homepage Duplicate: https://arthurdao1022.github.io/Youtube-Homepage-Project/
+YouTube Homepage Duplicate: 
+
+• How to run code: https://arthurdao1022.github.io/Youtube-Homepage-Project/
 
 • This is a project that demonstrates my proficiency in HTML and CSS. The project involves creating a clone of the Youtube homepage. 
 
