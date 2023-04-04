@@ -18,5 +18,5 @@ Acknowledgements:
 License
 • This project is under no license. 
 
-Screenshots 
+Screenshot
 ![Screenshot 2023-04-04 130202](https://user-images.githubusercontent.com/129889354/229886786-cdf9d679-ab59-48d6-8821-f2184c08622a.png)
