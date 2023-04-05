@@ -1,6 +1,8 @@
 YouTube Homepage Duplicate: 
 
 • How to run code: https://arthurdao1022.github.io/Youtube-Homepage-Project/
+  1. You may also be able to upload Youtube.html through VSCODE and download an Extension called: Live Server by Ritwick Dey. 
+  2. After downloading the code, you may right click on the code and click, "Open with Live Server."  
 
 • This is a project that demonstrates my proficiency in HTML and CSS. The project involves creating a clone of the Youtube homepage. 
 
